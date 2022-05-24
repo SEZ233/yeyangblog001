@@ -3,7 +3,7 @@ googleAnalytics: UA/G-123123-12
 languageCode: en-us
 enableEmoji: yes
 theme: avicenna
-title: YOUR_NAME
+title: YeyangWeb
 paginate: 10
 markup:
   tableOfContents:
