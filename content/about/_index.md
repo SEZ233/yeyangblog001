@@ -17,7 +17,7 @@ affiliations:
     name: University of California, Davis
     
 blog: true
-cv: cv.doxc
+cv: cv.docx
 date: "2020-10-20T17:51:47+03:30"
 draft: false
 full_name: Yeyang Zhou
